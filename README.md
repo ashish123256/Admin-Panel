@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1Q5XTDYqGj9_4SvXiGOi-ZPti70wqz-_5/view?usp=shari
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/ashish123256/Admin-Panel
 ```
 
 **For Client**
