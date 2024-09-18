@@ -71,7 +71,7 @@ To deploy this project run
 To deploy this project run
 
 ```bash
-  Vercel deploy
+  Netlify deploy
 ```
 
 ## Env Variables
