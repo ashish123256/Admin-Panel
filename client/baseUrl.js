@@ -1,0 +1,1 @@
+export const baseUrl = 'https://admin-panel-server-4zpm.onrender.com'
